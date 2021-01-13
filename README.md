@@ -47,3 +47,5 @@ VRaptor uses Maven as build tool, so you can easily import it into your favorite
 ## Contribute to VRaptor
 
 Do you want to contribute with code, documentation or reporting a bug? You can find our guideline [here](http://www.vraptor.org/en/docs/how-to-contribute/ "Contribute").
+
+Alteration made by bosozokuthemyth
